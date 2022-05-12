@@ -23,6 +23,7 @@ dependency-reduced-pom.xml
 *.iws
 
 #maven stuffs
+**/pom.xml.versionsBackup
 target/
 release/
 RESULTS/
